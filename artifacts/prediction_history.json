@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "2026-04-15T16:49:28.543610",
+    "type": "salary",
+    "input": {
+      "job_title": "Software Engineer",
+      "experience_years": 5.0,
+      "education_level": "High School",
+      "skills_count": 8,
+      "industry": "Technology",
+      "company_size": "Startup (1-50)",
+      "location": "San Francisco",
+      "remote_work": "Fully Remote",
+      "certifications": "Azure Certified"
+    },
+    "prediction": 197398.71,
+    "confidence": null
+  },
+  {
+    "timestamp": "2026-04-15T16:51:48.139723",
+    "type": "salary",
+    "input": {
+      "job_title": "Software Engineer",
+      "experience_years": 5.0,
+      "education_level": "High School",
+      "skills_count": 8,
+      "industry": "Technology",
+      "company_size": "Startup (1-50)",
+      "location": "San Francisco",
+      "remote_work": "Fully Remote",
+      "certifications": "None"
+    },
+    "prediction": 183754.78,
+    "confidence": null
+  },
+  {
+    "timestamp": "2026-04-15T16:52:01.108866",
+    "type": "salary",
+    "input": {
+      "job_title": "Software Engineer",
+      "experience_years": 5.0,
+      "education_level": "High School",
+      "skills_count": 8,
+      "industry": "Technology",
+      "company_size": "Medium (201-1000)",
+      "location": "San Francisco",
+      "remote_work": "Fully Remote",
+      "certifications": "None"
+    },
+    "prediction": 189721.37,
+    "confidence": null
+  },
+  {
+    "timestamp": "2026-04-17T16:24:10.596106",
+    "type": "salary",
+    "input": {
+      "job_title": "Software Engineer",
+      "experience_years": 5.0,
+      "education_level": "High School",
+      "skills_count": 8,
+      "industry": "Technology",
+      "company_size": "Startup (1-50)",
+      "location": "San Francisco",
+      "remote_work": "Fully Remote",
+      "certifications": "None"
+    },
+    "prediction": 199700.91,
+    "confidence": null
+  },
+  {
+    "timestamp": "2026-04-17T16:24:14.190254",
+    "type": "salary",
+    "input": {
+      "job_title": "Software Engineer",
+      "experience_years": 5.0,
+      "education_level": "High School",
+      "skills_count": 8,
+      "industry": "Technology",
+      "company_size": "Startup (1-50)",
+      "location": "San Francisco",
+      "remote_work": "Fully Remote",
+      "certifications": "None"
+    },
+    "prediction": 199700.91,
+    "confidence": null
+  }
+]
